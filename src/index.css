@@ -1,4 +1,5 @@
 body {
+  background-color: rgb(173, 113, 173);
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -11,3 +12,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h1{text-align: center;color: chartreuse;}
+p{height: 40px;text-align: center;align-content: center;color:rgb(16, 108, 189);background-color: cornsilk;}
+#sv{height: 280px;background-color:  chartreuse;}
+td{border: 1px solid blueviolet;border-collapse: collapse;width: 395px;}
+td{height: 50px;text-align: center;}
+button{height:50px;width: 100%;background-color: chartreuse;}
+#btn{border: 1px solid transparent;height: 100px;}
+#cancel{background-color: red;}
+#back{background-color: gold;}
